@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "380052880738",
+    "project_id": "futo-vote",
+    "storage_bucket": "futo-vote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380052880738:android:e1601b11e869f34ba8403b",
+        "android_client_info": {
+          "package_name": "com.example.futo_vote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380052880738-lmloa03mptdvhqouv7ugjgie2uoivmt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUJEGBArd4LkRO96qxg_EBtFVx4yJQEwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380052880738-lmloa03mptdvhqouv7ugjgie2uoivmt1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "380052880738-vhahles3u3j4euf257rlage90180vrfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.futoVote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
